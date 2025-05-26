@@ -71,7 +71,7 @@ The user interface for the MJKit Mahjong scoring platform, built with React and 
   - Multi-language support (English, Traditional Chinese)
   - Responsive UI with theme toggle (dark/light)
 - **Tech:** React, TypeScript, Vite, Material UI, i18next
-- **Live Demo:** [https://KayiuTommyLI.github.io/mjkit-frontend/](https://likayiu.me/mjkit-frontend/)
+- **Live Demo:** [https://likayiu.me/mjkit-frontend/](https://likayiu.me/mjkit-frontend/)
 
 > Full features and usage: [mjkit-frontend repository](https://github.com/KayiuTommyLI/mjkit-frontend).
 
