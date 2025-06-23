@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I am Tommy LI, a highly experienced Software Engin
 
 ### Programming & Frameworks
 - **Languages**: Python, Java, C++, TypeScript, SQL, Bash, MATLAB.
-- **Web Development**: React, NestJS, Node.js, Spring Boot, Struts2, HTML/CSS, RESTful APIs.
+- **Web Development**: React, NestJS, Node.js, FastAPI, Spring Boot, Struts2, HTML/CSS, RESTful APIs.
 - **Cloud & DevOps**: AWS ECS/Fargate, RDS, Docker, GitHub Actions, Jenkins.
 
 ### Machine Learning & Data Analysis
@@ -90,5 +90,21 @@ A robust NestJS RESTful API for Mahjong game management, written in TypeScript.
 - **Tech:** NestJS, TypeScript, PostgreSQL, TypeORM, Docker
 
 > See API docs and cloud deployment guides in the [mjkit-backend repository](https://github.com/KayiuTommyLI/mjkit-backend).
+
+---
+
+### AI Resume & Cover Letter App ([resume-app](https://github.com/KayiuTommyLI/resume-app))
+
+An AI-powered resume and cover letter customization assistant app using FastAPI and Google Gemini.
+
+- **Features:**
+  - Instantly generate tailored resumes and cover letters using AI
+  - Advanced keyword and job description matching
+  - Real-time content optimization suggestions
+  - Secure, privacy-first design—no user data stored on the server
+  - Export to PDF and other formats
+- **Tech:** FastAPI, Google Gemini, HTML, Python, JavaScript
+
+> Learn more or try it out in the [resume-app repository](https://github.com/KayiuTommyLI/resume-app).
 
 ---
