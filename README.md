@@ -108,3 +108,17 @@ An AI-powered resume and cover letter customization assistant app using FastAPI 
 > Learn more or try it out in the [resume-app repository](https://github.com/KayiuTommyLI/resume-app).
 
 ---
+
+### AI-Powered Quiz Generator ([quiz-app](https://github.com/KayiuTommyLI/quiz-app))
+An intelligent, full-stack study application designed to accelerate learning for technical interviews. It uses Google Gemini to automatically generate quizzes from study materials and is architected for robust, one-command deployment using Docker.
+
+- **Features:**
+  - AI Question Generation: Parses PDF and text documents to create diverse, high-quality multiple-choice questions.
+  - Smart Learning System: Features an adaptive weighting algorithm to prioritize weak areas and uses SHA-256 hashing to prevent duplicate questions.
+  - Containerized & Production-Ready: Built for reliable deployment with a multi-stage Dockerfile, Docker Compose, and security best practices like non-root users and health checks.
+  - Interactive Quiz UI: A clean, responsive interface built with React and Tailwind CSS for topic-based quizzing and performance tracking.
+- **Tech:** React, Node.js, Express.js, Docker, Docker Compose, Google Gemini, Tailwind CSS, Vite
+
+> See the full architecture and deployment guide in the [quiz-app repository](https://github.com/KayiuTommyLI/quiz-app). 
+
+---
